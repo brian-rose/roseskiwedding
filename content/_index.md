@@ -7,4 +7,4 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/IMG_1872.jpeg'
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+This is a just a placeholder for now, but this website will host all the info you've always wanted to know about our upcoming wedding!
