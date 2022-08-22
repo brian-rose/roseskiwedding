@@ -1,4 +1,4 @@
-baseURL = 'http://roseski.org/'
+baseURL = 'https://brian-rose.github.io/roseskiwedding'
 languageCode = 'en-us'
 title = 'The wedding of Laura and Brian'
 theme = "ananke"
