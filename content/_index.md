@@ -2,7 +2,6 @@
 title: "Laura and Brian's wedding"
 
 description: "Saturday May 27 2023"
-# 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
   featured_image: '/images/pro_perg.jpeg'
