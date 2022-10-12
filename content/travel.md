@@ -1,5 +1,5 @@
 ---
-title: Travel info
+title: Travel
 featured_image: ''
 omit_header_text: true
 description: Travel information for out of town guests
