@@ -1,6 +1,5 @@
 ---
 title: Schedule
-featured_image: ''
 description: A round-up of all the wedding-weekend events
 type: page
 menu:
