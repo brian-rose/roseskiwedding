@@ -7,6 +7,8 @@ menu:
     weight: 2
 ---
 
+*Please check back here closer to May 2023, we'll have lots more details about the schedule of events surrouding the big day!*
+
 ## Thursday May 25 2023
 
 - A fun thing
@@ -14,7 +16,7 @@ menu:
 
 ## Friday May 26
 
-- This day is not so fun
+- TBD
 
 ## Saturday May 27
 
@@ -24,4 +26,4 @@ menu:
 
 ## Sunday May 28
 
-- Morning-after brunch on the patio at The Prancing Pony, Delmar NY
+- Morning-after brunch on the patio at The Prancing Pony, Delmar NY (Laura and Brian's home)
