@@ -1,7 +1,7 @@
 ---
 title: Travel
 featured_image: ''
-omit_header_text: true
+omit_header_text: false
 description: Travel information for out of town guests
 type: page
 menu: main
