@@ -8,4 +8,4 @@ menu:
     weight: 1
 ---
 
-The tale of Laura and Brian... is cool.
+The tale of Laura and Brian, in a few silly pictures.
