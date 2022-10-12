@@ -1,6 +1,5 @@
 ---
 title: Where to stay
-featured_image: ''
 description: Where to stay during your visit to the Albany area
 type: page
 menu:
