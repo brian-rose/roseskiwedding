@@ -7,7 +7,7 @@ menu:
     weight: 2
 ---
 
-*Please check back here closer to May 2023, we'll have lots more details about the schedule of events surrouding the big day!*
+*Please check back here closer to May 2023, we'll have lots more details about the schedule of events surrounding the big day!*
 
 ## Thursday May 25 2023
 
