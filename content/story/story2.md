@@ -2,6 +2,7 @@
 title: "Laura moved in at a weird time!"
 featured_image: "/images/reno_fireside.jpeg"
 description: "Kitchen renovations, winter 2021"
+type: summary-with-image
 ---
 
 {{< figure src="/images/reno_fireside.jpeg" title="Fireside during kitchen renovations, February 1 2021." >}}
