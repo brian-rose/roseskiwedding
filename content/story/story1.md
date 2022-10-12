@@ -5,3 +5,5 @@ description: "We first met in 2019 at the Rock Voices community choir"
 ---
 
 {{< figure src="/images/RockVoices_nose.JPG" title="Getting ready for a Rock Voices concert, January 4 2020" >}}
+
+We first met in 2019 at the [Rock Voices](https://rockvoices.com) community choir. We still sing together with this group!
