@@ -7,7 +7,4 @@ type: page
 menu: main
 ---
 
-
-This is where we'll put travel information!
-
-Getting to Albany NY is fun.
+For those traveling from far-flung places, you'll want to look at flights in and out of the [Albany airport](https://www.albanyairport.com).
