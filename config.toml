@@ -3,3 +3,6 @@ languageCode = 'en-us'
 title = "Laura and Brian's wedding"
 theme = "ananke"
 copyright = "Brian Rose and Laura Krzykowski"
+
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
