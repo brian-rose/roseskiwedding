@@ -3,8 +3,9 @@ title: Schedule
 featured_image: ''
 description: A round-up of all the wedding-weekend events
 type: page
-menu: main
-  weight: 2
+menu:
+  main:
+    weight: 2
 ---
 
 ## Thursday May 25 2023
