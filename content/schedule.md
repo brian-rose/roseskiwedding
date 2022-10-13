@@ -9,14 +9,9 @@ menu:
 
 *Please check back here closer to May 2023, we'll have lots more details about the schedule of events surrounding the big day!*
 
-## Thursday May 25 2023
-
-- A fun thing
-- Another fun thing
-
 ## Friday May 26
 
-- TBD
+- *We'll have some suggestions for fun activities for those who want to make a long weekend of it!*
 
 ## Saturday May 27
 
