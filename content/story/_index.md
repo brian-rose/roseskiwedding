@@ -14,6 +14,4 @@ The tale of Laura and Brian, in a few silly pictures.
 
 {{< load-photoswipe >}}
 
-{{< image-gallery gallery_dir="/images/story/" >}}
-
 <!-- Things to include: a family vacation mini-page.  -->
