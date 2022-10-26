@@ -26,6 +26,8 @@ Laura first moved in with the Roses smack in the middle of a massive house renov
 
 <!-- {{< gallery dir="/images/story/" />}} -->
 
+France, summer 2022.
+
 ![Trianon at Versailles](/images/story/trianon.jpeg)
 
 ## Work!
