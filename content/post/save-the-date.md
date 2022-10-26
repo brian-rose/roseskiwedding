@@ -1,7 +1,7 @@
 ---
 title: "Time to send those save-the-dates!"
 date: 2022-10-26
-featured_image: "/images/pro_perg.jpeg"
+featured_image: "/images/planning_board.jpeg"
 draft: false
 ---
 
