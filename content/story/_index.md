@@ -6,7 +6,7 @@ description: The tale of Laura and Brian
 #     weight: 1
 ---
 
-The tale of Laura and Brian, in a few silly pictures.
+The tale of Laura and Brian, in a few silly pictures. More to come!
 
 ## We met in choir!
 
@@ -26,7 +26,7 @@ Laura first moved in with the Roses smack in the middle of a massive house renov
 
 <!-- {{< gallery dir="/images/story/" />}} -->
 
-![Trianon at Versailles](trianon.jpeg)
+![Trianon at Versailles](/images/story/trianon.jpeg)
 
 ## Work!
 
