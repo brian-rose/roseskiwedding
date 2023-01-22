@@ -44,4 +44,7 @@ _These are a few of our favorite things..._
 * Good beer in the area:
   - [The Real McCoy](http://www.therealmccoybeerco.com), fun rustic taproom in Delmar with occasional live music
   - [The Warbler Brewery](https://www.warblerbrewery.com/warbler-home), another small brewer and taproom in Delmar
+  - [Albany Pump Station](https://www.evansale.com) in downtown Albany
+  - [Brown's Brewing](https://www.brownsbrewing.com) in downtown Troy
+  - [Rare Form Brewing](https://www.rareformbrewing.com) in downtown Troy
 * For some more "official" tourism recommendations, take a look [here](https://www.iloveny.com/places-to-go/capital-saratoga/)
