@@ -1,9 +1,9 @@
 ---
 title: Our story
 description: The tale of Laura and Brian
-# menu:
-#   main:
-#     weight: 1
+menu:
+  main:
+    title: "Our story"
 ---
 
 The tale of Laura and Brian, in a few silly pictures. More to come!

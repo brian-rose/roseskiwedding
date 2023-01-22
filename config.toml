@@ -1,8 +1,7 @@
 baseURL = 'https://brian-rose.github.io/roseskiwedding'
 languageCode = 'en-us'
 title = "Laura and Brian's wedding"
-theme = "ananke"
+theme = ["ananke"]
 copyright = "Brian Rose and Laura Krzykowski"
 
-SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
