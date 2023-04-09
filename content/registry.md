@@ -4,7 +4,7 @@ description: For those who would like to offer a gift
 type: page
 menu:
   main:
-    weight: 2
+    weight: 6
 ---
 
 ## We don't have a traditional wedding gift registry
