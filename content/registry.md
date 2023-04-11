@@ -66,3 +66,18 @@ We’ll be relaxing in our beach-adjacent resort for 3 days with plans for lots 
 Once we are fully relaxed, we will drive back to Lisbon for one last night before flying back home. 
  
 {{< figure src="/images/lisbon.png" >}}
+
+## Gift suggestions
+
+A few ideas for giving levels include:
+- _Coffee, snacks, and [*pastéis de nata*](https://en.wikipedia.org/wiki/Pastel_de_nata)_: $20 
+- _Lunch_: $40
+- _Tip for a full-day tour guide_: $50
+- _Dinner and good wine_: $75
+- _A long week of Laura's favorite cocktails_: $100
+- _Hotel night_: $200
+
+We can accept contributions 
+- in person on the wedding day _(cash in Euros would be extra handy, we're leaving the next day!)_
+- by Venmo to https://www.venmo.com/u/Brian-Rose-149
+- by mail to _39 Alden Court, Delmar NY 12054_
