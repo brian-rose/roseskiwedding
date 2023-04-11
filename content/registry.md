@@ -15,7 +15,7 @@ After moving in together, we realized that we have accumulated a lot of stuff co
 
 _We are going to Portugal!!_
 
-If you would like to offer us a gift, we suggest a small monetary donation toward our travel plans. We are so grateful that you an help us create honeymoon memories that will last a lifetime. We have tons of amazing things planned for our trip as you will see when you check out the details. 
+If you would like to offer us a gift, we suggest a small monetary donation toward our travel plans. We are so grateful that you can help us create honeymoon memories that will last a lifetime. We have tons of amazing things planned for our trip as you will see when you check out the details. 
 
 Much love,
 
@@ -25,44 +25,44 @@ Laura & Brian
 
 We depart Sunday afternoon, and will be flying overnight from Newark to Porto. 
 
-__*pic1*__
+{{< figure src="/images/plane.png" >}}
 
 First we spend 3 days in Porto (a coastal city in northwest Portugal). We will be staying in a boutique hotel that was revitalized from a 200 year old stationary factory.
 
-__*pic2*__
+{{< figure src="/images/porto.png" >}}
 
 We will spend time visiting museums and exploring the city’s architecture, which is known for its intricate tilework. 
 
-__*pic3*__
+{{< figure src="/images/tile.png" >}}
 
 Porto is also known for its port, so we will be taking a day trip to visit vineyards in the Douro valley.
 
-__*pic4*__
+{{< figure src="/images/vineyard.png" >}}
 
 We will then take a 3 hour high speed train from Porto to Lisbon. 
 
-__*pic5*__
+{{< figure src="/images/train.png" >}}
 
 We will be spending 3 days in Lisbon, staying in a renovated palace from the 1800s. 
 
-__*pic6*__
+{{< figure src="/images/palace.png" >}}
 
 We’ll spend time sight-seeing and enjoying lots of seafood. We have reservations at a famous Lisbon restaurant that looks over the water.
 
-__*pic7*__
+{{< figure src="/images/resto.png" >}}
 
 We have booked a guided tour to Sintra, a town that has both the Romantic Pena Palace as well as the ruins of older manors and castles. 
 
-__*pic8*__
+{{< figure src="/images/sintra.png" >}}
 
 Once done in Lisbon we will be renting a car to travel to Portugal’s southern coast.
 
-__*pic9*__
+{{< figure src="/images/coast.png" >}}
 
 We’ll be relaxing in our beach-adjacent resort for 3 days with plans for lots of beaching, pool time, and massages.
 
-__*pic10*__
+{{< figure src="/images/beachresort.png" >}}
 
 Once we are fully relaxed, we will drive back to Lisbon for one last night before flying back home. 
  
-__*pic11*__
+{{< figure src="/images/lisbon.png" >}}
