@@ -1,7 +1,7 @@
 ---
-title: Three days until the wedding!"
+title: "Three days until the wedding!"
 date: 2023-05-24
-featured_image: "/images/planning_board_done.jpeg"
+featured_image: "/images/planning_board_done.jpg"
 draft: false
 ---
 
@@ -11,9 +11,9 @@ Wedding weekend is fast approaching, and we wanted to send out a few last-minute
 
 - Ceremony starts at 4:30 pm on Saturday
     - we recommend arriving at the venue around 4-4:15 so there is time to park and make your way to the ceremony location. 
-    - Address for Pond Hill Pavilion is 20 Brownrigg Road, Feura Bush NY, 12067
+    - Address for Pond Hill Pavilion is __20 Brownrigg Road, Feura Bush NY, 12067__
 - Weather is looking great for the weekend, so plans for the Saturday evening patio after-party and Sunday patio brunch are on! More details are on our website <https://roseski.org> but a few highlights:
-    - Our address is 39 Alden Court, Delmar, NY 12054
+    - Our address is __39 Alden Court, Delmar, NY 12054__
     - When arriving at our house, please __park on the odd side of the street__ so as not to block traffic. 
     - If you are able, we would also encourage you to park on adjacent streets and walk over to decrease congestion. 
     - Follow the lighted path on the right side of the house - this will take you directly back to the patio. 
